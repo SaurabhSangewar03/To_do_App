@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# A Simple To Do App with CRUD Operations Using React Js.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Features
+- Add a To Do Task,
+- Update a To Do Task,
+- Delete a To Do Task,
+
+# Demo-Link
+`<link>` : [To-Do-App]()
 
 ## Available Scripts
 
